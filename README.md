@@ -7,7 +7,7 @@
 ---
 
 <a href="https://www.cnblogs.com/kqdssheng/p/16070255.html">
-<img src="https://s1.ax1x.com/2022/03/30/qgDptJ.png" width="40%" align="right">
+<img src="https://s1.ax1x.com/2022/03/30/qgDptJ.png" width="20%" align="right">
 </a>
 
 ### 导航
