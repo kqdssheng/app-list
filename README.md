@@ -1,6 +1,32 @@
+<a href="https://github.com/kqdssheng/app-list">
+<img src="https://s1.ax1x.com/2022/03/30/qg0GxP.jpg" width="5%" align="right">
+</a>
+
 > **欲善其事，必利其器。**
 
-### Windows
+---
+
+<a href="https://www.cnblogs.com/kqdssheng/p/16070255.html">
+<img src="https://s1.ax1x.com/2022/03/30/qgDptJ.png" width="40%" align="right">
+</a>
+
+### 导航
+
+- [Windows](#windows)
+
+- [Linux](#linux)
+
+- [安卓](#android)
+
+- [火狐浏览器扩展](#firefox)
+
+- [网站推荐](#web)
+
+- [结束语](#end)
+
+---
+
+### <div id="windows">Windows</div>
 
 1. Bandizip：压缩解压缩
 
@@ -64,7 +90,7 @@
 
 31. Ventoy：U盘启动制作工具（配合优启通、微PE等PE ISO镜像，可以实现通过一个U盘进入多个PE环境的效果，进而随意选择自己喜爱的PE环境进行系统的安装）👍
 
-### Linux
+### <div id="linux">Linux</div>
 
 1. tldr：man手册的简化版。首次安装之后需要先tldr -u更新本地命令帮助数据库，之后使用tldr cmd查询帮助。
 
@@ -82,7 +108,7 @@
 
 8. frp：内网穿透。（使NAT后面的本地服务暴露于公网）
 
-### 安卓
+### <div id="android">安卓</div>
 
 1. 印象笔记：云笔记
 
@@ -114,7 +140,7 @@
 
 15. 知乎：问答社区
 
-### 火狐浏览器扩展
+### <div id="firefox">火狐浏览器扩展</div>
 
 1. 侧边翻译：选中翻译
 
@@ -152,7 +178,7 @@
 
 18. Emoji：Emoji（在论坛发言、评论时，加个表情）
 
-### 网站推荐
+### <div id="web">网站推荐</div>
 
 1. [Emoji表情包](https://www.emojiall.com/)
 
@@ -172,4 +198,8 @@
 
 9. [博客园](https://www.cnblogs.com/)
 
-> **结束语：不积跬步无以至千里，不积小流无以成江海。**
+---
+
+**<div id="end">结束语：不积跬步无以至千里，不积小流无以成江海。</div>**
+
+---
