@@ -1,6 +1,8 @@
+<!--
 <a href="https://github.com/kqdssheng/app-list">
 <img src="https://s1.ax1x.com/2022/03/30/qg0GxP.jpg" width="5%" align="right">
 </a>
+-->
 
 > **欲善其事，必利其器。**
 
@@ -70,7 +72,7 @@
 
 21. Cygwin64：Windows下类UNIX模拟环境（也可以使用Windows中WLS：Ubuntu、kali）
 
-22. 坚果云：跨设备文件同步共享（支持WebDAV，算是国内外云盘中支持WebDAV最好的👍）
+22. 坚果云：跨设备文件同步共享（支持WebDAV，算是国内外云盘中支持WebDAV最好的）👍
 
 23. Sandboxie：软件沙盘（相比于打开虚拟机来测试来路不明的软件来说这个更轻便）
 
